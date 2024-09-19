@@ -1,5 +1,9 @@
 # @udecode/plate-link
 
+## 23.7.5
+
+- Add the `target` attribute to `dangerouslyAllowAttributes` for `createLinkPlugin`
+
 ## 23.7.4
 
 ## 23.7.0
